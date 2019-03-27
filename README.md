@@ -1,2 +1,2 @@
-# p5-lissajous
+# lissajous-p5
 Curvas de Lissajous elaboradas con p5js
